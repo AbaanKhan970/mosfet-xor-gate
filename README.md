@@ -63,8 +63,3 @@ To evaluate output voltage levels:
 
 ---
 
----
-
-## 📜 License
-
-This project is for academic demonstration purposes and is licensed under the [MIT License](LICENSE).
